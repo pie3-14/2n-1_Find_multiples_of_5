@@ -12,6 +12,6 @@ int main(void) {
 		}
 		n++;
 	}
-	printf("result = %d\n", count);
+	printf("5의 배수 개수 = %d\n", count);
 	return 0;
 }
